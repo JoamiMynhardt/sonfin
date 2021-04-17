@@ -1,0 +1,8 @@
+Index
+- navbar spacing
+- Triangle background
+- services animation
+- Video size
+
+Gallery - Images
+- see instructions
